@@ -1,9 +1,6 @@
 # ARAS-Diamond Models 
 
 
-
-# Dynamic Parameter Identification
-
 Simulation Model of ARAS-Diamond, related to the papers:
 
 Hassani, A., Bataleblu, A., Khalilpour, S.A. and D Taghirad, H., 2021. Dynamic modeling and identification of ARAS-Diamond: A vitreoretinal eye surgery robot. Modares Mechanical Engineering, 21(11), pp.783-795.
@@ -16,6 +13,6 @@ Hassani, A., Bataleblu, A., Khalilpour, S.A. and D Taghirad, H., 2021. Dynamic m
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=dFyD1wDK4p8)
 
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dFyD1wDK4p8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
